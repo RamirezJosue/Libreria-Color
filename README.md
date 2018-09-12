@@ -1,2 +1,2 @@
 # App
-`libreria aqui` https://jitpack.io/#RamirezJosue/Libreria-Color/1.0.0
+https://jitpack.io/#RamirezJosue/Libreria-Color/1.0.0
